@@ -1,0 +1,83 @@
+{
+  "method": "WCAG opaque sRGB luminance; selected token pairs only, not a full accessibility audit",
+  "checks": [
+    {
+      "foreground": "text",
+      "background": "canvas",
+      "ratio": 11.68,
+      "minimum": 4.5
+    },
+    {
+      "foreground": "muted",
+      "background": "canvas",
+      "ratio": 5.25,
+      "minimum": 4.5
+    },
+    {
+      "foreground": "text",
+      "background": "surface",
+      "ratio": 14.04,
+      "minimum": 4.5
+    },
+    {
+      "foreground": "muted",
+      "background": "surface",
+      "ratio": 6.31,
+      "minimum": 4.5
+    },
+    {
+      "foreground": "onPrimary",
+      "background": "primary",
+      "ratio": 14.04,
+      "minimum": 4.5
+    },
+    {
+      "foreground": "text",
+      "background": "lavender",
+      "ratio": 7.77,
+      "minimum": 4.5
+    },
+    {
+      "foreground": "text",
+      "background": "rose",
+      "ratio": 8.12,
+      "minimum": 4.5
+    },
+    {
+      "foreground": "text",
+      "background": "butter",
+      "ratio": 11.33,
+      "minimum": 4.5
+    },
+    {
+      "foreground": "borderControl",
+      "background": "surface",
+      "ratio": 4.1,
+      "minimum": 3
+    },
+    {
+      "foreground": "focus",
+      "background": "canvas",
+      "ratio": 6.12,
+      "minimum": 3
+    },
+    {
+      "foreground": "success",
+      "background": "surface",
+      "ratio": 6.92,
+      "minimum": 4.5
+    },
+    {
+      "foreground": "danger",
+      "background": "surface",
+      "ratio": 6.75,
+      "minimum": 4.5
+    },
+    {
+      "foreground": "warning",
+      "background": "surface",
+      "ratio": 6.85,
+      "minimum": 4.5
+    }
+  ]
+}

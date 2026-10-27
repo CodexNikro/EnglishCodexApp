@@ -4,3 +4,5 @@
 - [Проект веб-приложения Recall](design/README.md) — стек, анализ продуктов и UI-источников, три дизайн-системы, пять визуальных референсов и интерактивный макет.
 
 - [Пять новых визуальных вариантов сайта](design/visual-round-2/README.md) — Electric Cobalt, Orange Press, Lavender Club, After Hours, Swiss Index.
+
+- **[Актуальный план: Lavender Club](design/lavender-club/README.md)** — выбранная дизайн-система, словарь, научные принципы и этапы реализации.

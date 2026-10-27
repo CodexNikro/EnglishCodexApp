@@ -1,0 +1,20 @@
+{
+  "status": "Verified local source snapshot; source files not yet published in main",
+  "files": {
+    "vocabulary.json": {
+      "sha256": "8e88e4cfc8cdc00a87406611c2ea27b2febba5e7d87c0a70ad99b1fcfa7342f3",
+      "records": 1627,
+      "planned_repository_path": "data/vocabulary.json"
+    },
+    "topics.json": {
+      "sha256": "34f401b1c3ab5dc5040e9ea96145d880145206b793f6f095961651f7ad066eec",
+      "records": 23,
+      "planned_repository_path": "data/topics.json"
+    },
+    "sources.json": {
+      "sha256": "82aff3e49e265cb5116a99ddaa502cdc13323a143f124e2600bdc5b83f1e9c26",
+      "records": 74,
+      "planned_repository_path": "data/sources.json"
+    }
+  }
+}
