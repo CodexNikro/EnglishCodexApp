@@ -1,0 +1,1 @@
+PASS: 15 mobile theme/screen combinations without horizontal overflow; all visible mobile buttons >=44px; five desktop screenshots; hidden target answer; reveal/next; topic and word search; separate book meanings; voice demo and feedback; no JavaScript errors.

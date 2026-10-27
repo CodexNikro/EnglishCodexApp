@@ -1,0 +1,1 @@
+PASS: 15 combinations at 360px have no horizontal overflow; keyboard Space reveals only a hidden recall answer; dictionary exposure labeled separately and not reported as independent success; corrected linear progress chart; no JavaScript errors.

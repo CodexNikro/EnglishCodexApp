@@ -1,0 +1,35 @@
+{
+  "method": "WCAG sRGB relative luminance, opaque colors; text pairs only, not a full accessibility audit",
+  "results": [
+    {
+      "theme": "paper",
+      "contrast": {
+        "text/background": 14.01,
+        "muted/background": 5.23,
+        "text/surface": 15.15,
+        "muted/surface": 5.66,
+        "onPrimary/primary": 5.91
+      }
+    },
+    {
+      "theme": "signal",
+      "contrast": {
+        "text/background": 16.03,
+        "muted/background": 8.29,
+        "text/surface": 14.05,
+        "muted/surface": 7.27,
+        "onPrimary/primary": 13.84
+      }
+    },
+    {
+      "theme": "fieldnotes",
+      "contrast": {
+        "text/background": 9.23,
+        "muted/background": 5.1,
+        "text/surface": 9.74,
+        "muted/surface": 5.38,
+        "onPrimary/primary": 9.74
+      }
+    }
+  ]
+}

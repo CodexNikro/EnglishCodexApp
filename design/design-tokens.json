@@ -1,0 +1,108 @@
+{
+  "version": 1,
+  "updatedOn": "2026-10-27",
+  "shared": {
+    "spacingPx": [
+      4,
+      8,
+      12,
+      16,
+      24,
+      32,
+      48,
+      64
+    ],
+    "bodyFontSizePx": 16,
+    "bodyLineHeightPx": 24,
+    "minimumControlSizePx": 44,
+    "preferredControlHeightPx": 48,
+    "focusWidthPx": 3,
+    "motionDurationMs": {
+      "feedback": 120,
+      "transition": 180,
+      "reducedMotion": 0
+    },
+    "breakpointsPx": {
+      "mobile": 640,
+      "tablet": 960,
+      "desktop": 1280
+    },
+    "desktopMaxContentWidthPx": 1280,
+    "contentLanguage": "ru",
+    "learningLanguage": "en",
+    "fontFallback": {
+      "display": "Georgia, serif",
+      "body": "Arial, sans-serif"
+    },
+    "note": "Target implementation tokens. Standalone prototype uses system fonts and approximates some component values; it is not the final component library."
+  },
+  "themes": {
+    "paper": {
+      "name": "Paper",
+      "colors": {
+        "background": "#F7F6F2",
+        "surface": "#FFFFFF",
+        "text": "#20272B",
+        "muted": "#606966",
+        "primary": "#3159D8",
+        "onPrimary": "#FFFFFF",
+        "border": "#DADFD9",
+        "accentSoft": "#EDF0FC"
+      },
+      "fontDisplay": "Literata",
+      "fontBody": "Manrope",
+      "radius": {
+        "control": 8,
+        "panel": 16,
+        "dialog": 20
+      },
+      "layout": "editorial-sidebar",
+      "density": "comfortable"
+    },
+    "signal": {
+      "name": "Signal",
+      "colors": {
+        "background": "#111716",
+        "surface": "#1B2421",
+        "text": "#EEF2ED",
+        "muted": "#A7B2AB",
+        "primary": "#B8F27B",
+        "onPrimary": "#111716",
+        "border": "#344239",
+        "accentSoft": "#253521"
+      },
+      "fontDisplay": "Manrope",
+      "fontBody": "Inter",
+      "radius": {
+        "control": 10,
+        "panel": 12,
+        "dialog": 16
+      },
+      "layout": "voice-studio-sidebar",
+      "density": "compact"
+    },
+    "fieldnotes": {
+      "name": "Fieldnotes",
+      "colors": {
+        "background": "#FFF8EE",
+        "surface": "#FFFFFF",
+        "text": "#164D3A",
+        "muted": "#636D64",
+        "primary": "#164D3A",
+        "onPrimary": "#FFFFFF",
+        "accent": "#B9492F",
+        "border": "#E2D9C8",
+        "accentSoft": "#F8E9DE"
+      },
+      "fontDisplay": "Noto Serif",
+      "fontBody": "Manrope",
+      "radius": {
+        "control": 14,
+        "panel": 20,
+        "dialog": 24
+      },
+      "layout": "editorial-horizontal",
+      "density": "comfortable"
+    }
+  }
+}
